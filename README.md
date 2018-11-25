@@ -2,6 +2,8 @@
 
 Simple Read File as UTF-8 using Deno — Learn Deno
 
+> Same as Deno API — readFileSync `export function readFileSync(filename: string): Uint8Array;`
+
 ### Usage
 
 Example code, create file **test.ts** and fill with below code.
